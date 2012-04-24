@@ -1,4 +1,8 @@
+#===========================
 #Fisher-Yates shuffle algo
+#author seaslee
+#date: 4/24,2012
+#===========================
 import random
 a=[1,2,3,4,5]
 len(a)
